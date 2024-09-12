@@ -12,8 +12,8 @@
 <h3 align="left">Donde encontrarme</h3>
 <p align="left">Accede a mis redes sociales donde podras saber mas sobre mi, y mi trayectoria profesional!</p> 
 <p align="left">
-<a href="https://www.linkedin.com/in/kdna/" target="blank"><img align="center" color="#D92FB8" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/kdna.dev/" target="blank"><img align="center" color="#0A66C2" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kdna/" target="blank"><img align="center" style="color:#D92FB8" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/kdna.dev/" target="blank"><img align="center" style="color:#0A66C2" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 </p>
 
 <!---
