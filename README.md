@@ -8,7 +8,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![@Kdna-dev](https://github.com/user-attachments/assets/191df3ef-d59f-4446-be48-e3295c85f3f3)
+![@Kdna-dev](https://github.com/user-attachments/assets/46fb8c33-426a-427b-a762-4c4d4f388ec2)
 
 <h3 align="left">Donde encontrarme</h3>
 <p align="left">Accede a mis redes sociales donde podras saber mas sobre mi, y mi trayectoria profesional!</p> 
