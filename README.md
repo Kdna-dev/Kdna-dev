@@ -10,6 +10,8 @@
 -->
 ![@Kdna-dev](https://github.com/user-attachments/assets/46fb8c33-426a-427b-a762-4c4d4f388ec2)
 
+[![roadmap.sh](https://roadmap.sh/card/tall/659ad4a8ae22c125233a4d6f?variant=dark&roadmaps=spring-boot%2Cjava%2Cbackend%2Cangular)](https://roadmap.sh)
+
 <h3 align="left">Donde encontrarme</h3>
 <p align="left">Accede a mis redes sociales donde podras saber mas sobre mi, y mi trayectoria profesional!</p> 
 <p align="left">
